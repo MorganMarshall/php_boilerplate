@@ -23,35 +23,6 @@
 </div>
 
 <?php include "includes/footer.php";?>
-<div   style="text-align: center;">
-<?php
 
-$myname = "morgan";
-
-echo '<div  style="text-align: center; padding-top: 60px;">
-
-<div style="width: 18rem; box-shadow: 0 6px 6px -6px #777;" class="card mx-auto">
-
-<div class="card-body">
-<h3>SignUp </h3>
-</div>
-
-</div>
-
-
-'
-
-;
-$myname
-?>
-
-<?php
-echo 2 + 2;
-?>
-
-
-</div>
-
-<h1>hey yall</h1>
 </body>
 </html>
