@@ -11,7 +11,7 @@
 		margin-top:20px;
 	}
 	.footer {
-		font-size: 14px;
+		font-size: 15px;
 		text-align: center;
 	}
 </style>
