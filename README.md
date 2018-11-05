@@ -1,2 +1,2 @@
-# basic-sample-php-template-example
-Explanation for organizing the file structure
+# Basic template
+Example of organizing the file structure
